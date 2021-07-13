@@ -1,3 +1,14 @@
 *{
     font-family: sans-serif;
 }
+
+.title{
+    text-align: center;
+}
+
+img.responsive-img, video.responsive-video {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+}
